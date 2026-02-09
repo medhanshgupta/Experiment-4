@@ -15,7 +15,7 @@ remove() and discard() both delete elements but:
   discard does nothing if the element is not there but remove shows an error. 
   
 ## Algorithm:
-    # Set Operations
+# Set Operations
     Operators used: |, &, -, ^
     1)Start
     2)Create set a and set b
@@ -26,7 +26,7 @@ remove() and discard() both delete elements but:
     7)Print all results
     8)End
 
-    Unique Event Participants
+# Unique Event Participants
     Operators / functions used: set()
     1)Start
     2)Create a list with duplicate participant names
