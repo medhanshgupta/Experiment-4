@@ -15,7 +15,7 @@ remove() and discard() both delete elements but:
   discard does nothing if the element is not there but remove shows an error. 
   
 ## Algorithm:
-    Set Operations
+    # Set Operations
     Operators used: |, &, -, ^
     1)Start
     2)Create set a and set b
